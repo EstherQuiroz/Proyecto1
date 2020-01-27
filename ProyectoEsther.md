@@ -6,5 +6,7 @@
 ## nuevo
 ## ejercicio add
 ## remove
+## remove
+## remove
 
 
