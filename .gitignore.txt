@@ -1,1 +1,2 @@
-dia20100128.txt
+dia20100128.md
+toIgnore.md
