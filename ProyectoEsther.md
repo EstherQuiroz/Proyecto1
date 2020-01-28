@@ -2,12 +2,6 @@
 ## plataforma para intercambio de codigo
 ## comentado por Esther
 
-## comentado nuevo
-## nuevo
-## ejercicio add
-## remove
-## remove
-## remove
-## hello world
+## nuevo comment
 
 
