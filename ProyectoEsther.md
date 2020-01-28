@@ -1,13 +1,11 @@
-## GitHub
-## plataforma para intercambio de codigo
-## comentado por Esther
+## comentario uno
+## comentario uno
+## comentario uno
+## comentario uno
+## comentario uno
 
-## comentado nuevo
-## nuevo
-## ejercicio add
-## remove
-## remove
-## remove
-## hello world
+
+
+
 
 
